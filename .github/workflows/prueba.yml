@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Paso Hola Mundo
+      - name: Paso Hola Mundo1
         run: echo "Hola desde Github Actions"
 
       - name: Debug
